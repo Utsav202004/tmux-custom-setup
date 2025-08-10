@@ -1,0 +1,25 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor backup files
+*~
+*.bak
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.temp
+
+# Personal configuration files (if you add any later)
+personal_config.sh
+local_settings.sh
+
+# Log files
+*.log
