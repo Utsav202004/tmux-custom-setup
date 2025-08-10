@@ -15,8 +15,8 @@ Creates a tmux session with 5 pre-configured windows:
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/tmux-ml-setup.git
-cd tmux-ml-setup
+git clone https://github.com/Utsav202004/tmux-custom-setup.git
+cd tmux-custom-setup
 
 ```
 
